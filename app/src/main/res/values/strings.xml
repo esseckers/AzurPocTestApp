@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AzurPocTestApp</string>
+    <string name="post">Post</string>
+    <string name="txt_error">Пост еще не был загружен, проверьте соединение с интернетом или потяните для обновления</string>
+</resources>
